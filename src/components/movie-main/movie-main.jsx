@@ -1,4 +1,3 @@
-import './movie-main.css';
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import { MovieHome } from '../movie-home/movie-home';
 import { MovieTopRated } from '../movie-top-rated/movie-top-rated';
